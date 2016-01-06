@@ -1,0 +1,1 @@
+C:\Users\Tobias\documents\visual studio 2015\Projects\LED2Azure\QueueReader_RPI2\QueueReader_RPI2.csproj;arm
