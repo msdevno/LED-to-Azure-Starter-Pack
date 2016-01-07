@@ -43,7 +43,7 @@ namespace QueueAddForms
         }
 
         // Add message to the queue
-        private async void addMessage(CloudQueue queue, string text)
+        private async void addMessage(string text)
         {
             CloudQueueMessage message = new CloudQueueMessage(text);
             await queue.AddMessageAsync(message);                               // Add message to the queue

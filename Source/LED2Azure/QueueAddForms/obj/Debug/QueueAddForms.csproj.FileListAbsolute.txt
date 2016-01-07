@@ -61,3 +61,6 @@ C:\Users\Tobias\documents\visual studio 2015\Projects\LED2Azure\QueueAddForms\ob
 C:\Users\gill\Desktop\LED 2 Azure Starter Pack\Source\LED2Azure\QueueAddForms\bin\Debug\QueueAddForms.exe.config
 C:\Users\gill\Desktop\LED 2 Azure Starter Pack\Source\LED2Azure\QueueAddForms\obj\Debug\QueueAddForms.exe
 C:\Users\gill\Desktop\LED 2 Azure Starter Pack\Source\LED2Azure\QueueAddForms\obj\Debug\QueueAddForms.pdb
+C:\Users\gill\Desktop\LED 2 Azure Starter Pack\LED-to-Azure-Starter-Pack\Source\LED2Azure\QueueAddForms\bin\Debug\QueueAddForms.exe.config
+C:\Users\gill\Desktop\LED 2 Azure Starter Pack\LED-to-Azure-Starter-Pack\Source\LED2Azure\QueueAddForms\obj\Debug\QueueAddForms.exe
+C:\Users\gill\Desktop\LED 2 Azure Starter Pack\LED-to-Azure-Starter-Pack\Source\LED2Azure\QueueAddForms\obj\Debug\QueueAddForms.pdb
